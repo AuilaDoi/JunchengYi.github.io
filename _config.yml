@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Juncheng Yi
+description: Master student, College of Info. & Comm. Engineering, Harbin Engineering University
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Juncheng Yi
+  url: https://github.com/AuilaDoi/
+  email: juncheng@hrbeu.edu.cn
